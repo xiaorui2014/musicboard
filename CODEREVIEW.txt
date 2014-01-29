@@ -1,0 +1,19 @@
+Lieber Herr Schamböck,
+
+Hier die abschliessende Beurteilung von 
+http://multimediatechnology.at/~fhs34789/qpt1/
+
+Sie haben eine gute Idee teilweise umgesetzt.  
+Dabei haben sie viel vom gelernten Stoff verwendet,
+und sind ein ganz kleines bisschen darüber hinaus gegangen.
+
+An der Bedienung haben Sie nach der Code Review wesentliche
+Verbesserungen gemacht - besonders beim Player ist
+wirklich eine grosse Verbesserung! 
+
+Bei der Code-Organisation blicke ich nicht ganz durch:
+warum haben Sie eine PHP-Datei functions.php, aber
+dann eine separate Datei salz.php in der eine einzige
+Funktion definiert ist?  Warum ist die nicht einfach in functions.php?
+Damit werden wir uns nächstes Semester viel beschäftigen.
+
